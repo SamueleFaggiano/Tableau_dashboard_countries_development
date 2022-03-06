@@ -12,3 +12,11 @@ While the Sub-Saharan Africa has the whole IQR range below the median.
 All the other macro-regions are around the threshold and they have the highest percentage of the world population.
 ![](https://github.com/SamueleFaggiano/Tableau_dashboard_coutries_development/blob/main/images/population_pie_chart.JPG)
 
+Moreover, all the countries have been evaluated through the following KPIs:
+* GDP;
+* Birthrate;
+* Deathrate;
+* Infant mortality;
+* Literacy.
+The data points have been grouped in 3 clusters: developed, underdeveloped and developing countries. The results are shown in the "Clusters - KPIs" tab and each country can be explored separately. Below we can notice how the countries belonging to the same cluster have the same behaviour in almost every feature. This also confirms that the used features are good descriptors
+![](https://github.com/SamueleFaggiano/Tableau_dashboard_coutries_development/blob/main/images/clusters.JPG)
